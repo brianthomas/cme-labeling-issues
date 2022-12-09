@@ -1,2 +1,2 @@
-# cme-labelling-issues
+# cme-labeling-issues
 repo to capture issues with cme ml labelling project
